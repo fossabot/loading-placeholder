@@ -1,0 +1,32 @@
+{
+  "name": "loading-placeholder",
+  "description": "Loading placeholder, build with Polymer 2",
+  "main": "loading-placeholder.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "loading",
+    "placeholder",
+    "skeleton",
+    "screens"
+  ],
+  "authors": [
+    "cforgeard"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cforgeard/loading-placeholder.git"
+  },
+  "licence": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0"
+  }
+}
