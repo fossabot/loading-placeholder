@@ -3,6 +3,7 @@
 `loading-placeholder` is a simple element to use skeleton loading such as Facebook.
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/cforgeard/loading-placeholder)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2Floading-placeholder.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2Floading-placeholder?ref=badge_shield)
 
 <!---
 ```
@@ -31,3 +32,5 @@ bower install loading-placeholder
 
 MIT Licence
 @ FORGEARD Clément 2017
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcforgeard%2Floading-placeholder.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcforgeard%2Floading-placeholder?ref=badge_large)
